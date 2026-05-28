@@ -1,0 +1,32 @@
+aid: tenders-in-hungary
+name: Tenders in Hungary
+description: "Get data for procurements in Hungary in JSON format"
+url: https://tenders.guru/hu/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Business"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Business
+  - Public APIs
+apis:
+  - name: Tenders in Hungary
+    description: "Get data for procurements in Hungary in JSON format"
+    humanURL: https://tenders.guru/hu/api
+    baseURL: https://tenders.guru/hu/api
+    tags:
+      - Business
+    properties:
+      - type: Documentation
+        url: https://tenders.guru/hu/api
+common:
+  - type: Website
+    url: https://tenders.guru/hu/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
