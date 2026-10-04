@@ -39,7 +39,6 @@ apis:
   - name: Tenders in Hungary
     description: "Get data for procurements in Hungary in JSON format"
     humanURL: https://tenders.guru/hu/api
-    baseURL: https://tenders.guru/hu/api
     tags:
       - Business
     properties:
